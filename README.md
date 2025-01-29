@@ -13,12 +13,11 @@
 1. Install required libraries:
    ```bash
    pip install selenium beautifulsoup4 pandas
-```
 
 #2. Ensure chromedriver is installed and set in the correct path.
 
 #3. Run the script:
-    ```bash
+ ```bash
     python main.py
 ```
 
